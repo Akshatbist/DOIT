@@ -2,6 +2,11 @@
 
 **Doit** is a to-do list and calendar scheduling app designed to help users stay organized with a clean, intuitive interface. Featuring a dynamic calendar, task prioritization, and seamless navigation, Doit simplifies productivity without overwhelming the user.
 
+![Image](https://github.com/user-attachments/assets/076ac96a-7b10-4232-ae75-3832476173e3)
+
+
+### Calendar View
+
 ## ✨ Features
 
 - 📅 **Interactive Calendar View** – View and assign tasks directly on specific dates.
